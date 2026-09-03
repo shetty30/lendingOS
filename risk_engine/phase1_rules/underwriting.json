@@ -1,0 +1,10 @@
+{
+  "score_reject_below": 550,
+  "score_review_below": 650,
+  "dti_reject_above": 0.55,
+  "dti_review_above": 0.40,
+  "notes": {
+    "score_system": "CIBIL (300-900) - confirm with backend before changing scale",
+    "dti_formula": "existing_emi / monthly_income, pre-new-loan"
+  }
+}
